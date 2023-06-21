@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "390569204239",
+    "project_id": "persintencia-e159a",
+    "storage_bucket": "persintencia-e159a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390569204239:android:d880ecdf5e3bd7be78e17a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390569204239-p5672lj34e4h4os2g5ssbs8172oh3icc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn55Rm5Nhr6U-Dh4zBI1PilezN5lCW5j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390569204239-p5672lj34e4h4os2g5ssbs8172oh3icc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390569204239-85smhp8frk1mnlcuvtfjfj3gm9dm4gof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBass",
+                "app_store_id": "1234556890"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390569204239:android:55e2a5958d51f66978e17a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390569204239-p5672lj34e4h4os2g5ssbs8172oh3icc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn55Rm5Nhr6U-Dh4zBI1PilezN5lCW5j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390569204239-p5672lj34e4h4os2g5ssbs8172oh3icc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390569204239-85smhp8frk1mnlcuvtfjfj3gm9dm4gof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBass",
+                "app_store_id": "1234556890"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
